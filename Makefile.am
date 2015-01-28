@@ -1,0 +1,2 @@
+EXTRA_DIST = utils examples LICENSE INSTALL
+SUBDIRS = src

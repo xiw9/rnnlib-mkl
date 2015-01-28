@@ -1,0 +1,10 @@
+Makefile
+bin/
+*.o
+stamp-h1
+config.h
+config.log
+config.status
+Makefile
+src/Makefile
+automake/
