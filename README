@@ -1,3 +1,10 @@
+You can find the original version at http://sourceforge.net/projects/rnnl/
+Full installation and usage instructions are given at http://sourceforge.net/p/rnnl/wiki/Home/
+
+The RNNLIB is written by Alex Graves (http://www.cs.toronto.edu/~graves/)
+
+------------------
+
 RNNLIB is written in C++ and should compile on any platform. However it is currently only tested for Linux and OSX.
 
 Building it requires the following:
